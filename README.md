@@ -24,3 +24,7 @@ netflix-homepage-clone/
 ├── styles.css
 └── assets
 ```
+
+## Screenshots
+
+![Spotify Clone Screenshot](https://github.com/vinayak-jaybhaye/website-clones-netflix/blob/main/assets/sc.png)  
